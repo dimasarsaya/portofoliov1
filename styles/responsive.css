@@ -1,0 +1,25 @@
+@media screen and (min-width: 1000px) {
+   p {
+    font-size: 1.2rem ;
+    line-height: 2.2rem;
+   } 
+   .grid-3 {
+    gap: 1rem;
+   }
+
+   .skills-right ul li {
+    font-size: 1rem;
+   }
+}
+
+@media screen and (min-width: 825px) {
+    /* Burger *
+    .burger {
+        display: block;
+        cursor: pointer;
+    } */
+}
+
+@media screen and (min-width: 640px) {
+    
+}
